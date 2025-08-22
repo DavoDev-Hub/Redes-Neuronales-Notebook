@@ -1,4 +1,4 @@
-#!/home/davo/Programacion/python/venv/bin/python3
+#!/home/davo/Programacion/redes-neuronales/venv/bin/python
 import sys
 from jupyter_core.command import main
 if __name__ == '__main__':
